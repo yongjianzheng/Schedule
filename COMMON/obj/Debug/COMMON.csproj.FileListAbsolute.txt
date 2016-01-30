@@ -1,0 +1,5 @@
+d:\documents\visual studio 2012\Projects\Schedule\COMMON\bin\Debug\COMMON.dll
+d:\documents\visual studio 2012\Projects\Schedule\COMMON\bin\Debug\COMMON.pdb
+d:\documents\visual studio 2012\Projects\Schedule\COMMON\obj\Debug\COMMON.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\Schedule\COMMON\obj\Debug\COMMON.dll
+d:\documents\visual studio 2012\Projects\Schedule\COMMON\obj\Debug\COMMON.pdb
